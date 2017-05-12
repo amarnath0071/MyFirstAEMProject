@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-demo - UI content</comment>
+<entry key="createdBy">amarak</entry>
+<entry key="name">aem-demo.ui.content</entry>
+<entry key="created">2017-05-12T11:20:02.048+0530</entry>
+<entry key="groupId">com.cg</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-demo</entry>
+<entry key="description">UI content package for aem-demo</entry>
+<entry key="artifactId">aem-demo.ui.content</entry>
+<entry key="path">/etc/packages/aem-demo/aem-demo.ui.content.zip</entry>
+</properties>

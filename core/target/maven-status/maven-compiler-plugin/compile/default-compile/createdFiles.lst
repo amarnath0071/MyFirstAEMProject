@@ -1,0 +1,6 @@
+com\cg\aem_demo\core\servlets\SimpleServlet.class
+com\cg\aem_demo\core\package-info.class
+com\cg\aem_demo\core\models\HelloWorldModel.class
+com\cg\aem_demo\core\schedulers\SimpleScheduledTask.class
+com\cg\aem_demo\core\filters\LoggingFilter.class
+com\cg\aem_demo\core\listeners\SimpleResourceListener.class
